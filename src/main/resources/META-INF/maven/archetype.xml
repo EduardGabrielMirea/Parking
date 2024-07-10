@@ -1,7 +1,7 @@
 <archetype>
   <id>Parking</id>
   <sources>
-    <source>src/main/java/ParkingApp.java</source>
+    <source>src/main/java/parking.app.ParkingApp.java</source>
   </sources>
   <testSources>
     <source>src/test/java/AppTest.java</source>
