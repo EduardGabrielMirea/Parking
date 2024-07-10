@@ -11,7 +11,6 @@ public abstract class Vehiculo {
 
     @Enumerated(EnumType.STRING)
     private TipoVehiculo tipo;
-
     public Vehiculo() {
     }
 
